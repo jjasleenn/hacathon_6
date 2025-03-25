@@ -2,13 +2,12 @@
 
 ## Project Overview
 
-The goal of this mini hackathon is to foster teamwork and the practical use of asynchronous JavaScript concepts covered in Module 05. You will be placed in randomly assigned groups and tasked with creating a small project based on a given theme during the allotted class time.
-
+The objective of this mini hackathon is to promote teamwork and apply client-side storage concepts from Module 06. Working in random groups, participants will create a small project based on a given theme within the allocated class time.
 
 ## Team Members:
 
 -   Raahil
--   Harsh pandeya
+-   Harsh pandya
 -   Komalpreet kaur 
 -   Jasleen Kaur
 
@@ -19,7 +18,7 @@ The goal of this mini hackathon is to foster teamwork and the practical use of a
 
 -   Worked on index.html of the webpage.
 
-### Name 2: Harsh pandeya 
+### Name 2: Harsh pandya
 
 -   Was responsible for javascript of the webpage 
 

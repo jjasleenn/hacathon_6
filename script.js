@@ -1,3 +1,4 @@
+
 // Load notes from localStorage on page load
 
 window.onload = function() {
@@ -68,3 +69,9 @@ function displayNotes() {
   });
 
 } 
+
+
+
+
+
+
