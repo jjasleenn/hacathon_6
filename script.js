@@ -52,9 +52,7 @@ window.onload = function () {
   
       noteDiv.innerHTML = `
   <p>${note}</p>
-  <button class="delete-btn" onclick="deleteNote(${index})">Delete</button>
-  
-      `;
+  <button class="delete-btn" onclick="deleteNote(${index})">Delete</button>`;
   
       notesContainer.appendChild(noteDiv);
   
